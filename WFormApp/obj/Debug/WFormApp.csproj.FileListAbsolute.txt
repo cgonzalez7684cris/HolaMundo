@@ -1,0 +1,2 @@
+C:\Users\cgonzalez\Desktop\ExamenFinal\WFormApp\WFormApp\bin\Debug\WFormApp.exe.config
+C:\Users\cgonzalez\Source\Repos\HolaMundo\WFormApp\bin\Debug\WFormApp.exe.config
